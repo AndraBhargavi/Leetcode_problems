@@ -1,0 +1,8 @@
+class Solution {
+    public String truncateSentence(String s, int k) {
+        String[] arr=arr=s.split(" ",k+1);;
+        
+        String[] str_arr=Arrays.copyOf(arr,k);
+        return String.join(" ",str_arr);
+    }
+}
