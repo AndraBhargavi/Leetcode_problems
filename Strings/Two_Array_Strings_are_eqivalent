@@ -1,0 +1,12 @@
+class Solution {
+    public boolean arrayStringsAreEqual(String[] word1, String[] word2) {
+       return buildString(word1).equals(buildString(word2));
+    }
+    public String buildString(String[] words){
+        StringBuilder sb=new StringBuilder();
+        for(String word:words){
+            sb.append(word);
+        }
+        return sb.toString();
+    }
+}
