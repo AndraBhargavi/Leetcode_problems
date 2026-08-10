@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0392-is-subsequence) |
@@ -92,5 +93,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0844-backspace-string-compare) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
