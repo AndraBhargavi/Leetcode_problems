@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0066-plus-one) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
