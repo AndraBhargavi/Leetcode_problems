@@ -4,11 +4,6 @@ class Solution:
         nse=self.findNSE(nums)
         pgee=self.findPGEE(nums)
         nge=self.findNGE(nums)
-        print(psee)
-        print(nse)
-        print(pgee)
-        
-        print(nge)
         min_sum=0
         max_sum=0
         for i in range(len(nums)):
