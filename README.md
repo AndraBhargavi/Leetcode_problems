@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0844-backspace-string-compare) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/2104-sum-of-subarray-ranges) |
+## Prefix Sum
+|  |
+| ------- |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
