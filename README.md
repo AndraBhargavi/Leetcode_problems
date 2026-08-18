@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0735-asteroid-collision) |
 | [0881-boats-to-save-people](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [0907-sum-of-subarray-minimums](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0907-sum-of-subarray-minimums) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0907-sum-of-subarray-minimums) |
