@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0392-is-subsequence) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0067-add-binary) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0844-backspace-string-compare) |
@@ -174,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
