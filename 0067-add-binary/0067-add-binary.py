@@ -15,8 +15,7 @@ class Solution:
             carry=sum1//2
             m-=1
             n-=1
-        if carry:
-            ans+=str(carry)
+        
         
         return ans[::-1]
             
