@@ -19,9 +19,8 @@ class Solution:
         return head
 
 
-    def gcd(self,c,d):
-        a=min(c,d)
-        b=max(c,d)
+    def gcd(self,a,b):
+        
         while b:
             a,b=b,a%b
         return a
