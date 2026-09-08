@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2104-sum-of-subarray-ranges](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/3925-concatenate-array-with-reverse) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0496-next-greater-element-i) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
 |  |
 | ------- |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0067-add-binary) |
+## Linked List
+|  |
+| ------- |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
