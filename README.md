@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/3925-concatenate-array-with-reverse) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0229-majority-element-ii) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
