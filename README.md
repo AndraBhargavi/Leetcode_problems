@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/3903-smallest-stable-index-i) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0067-add-binary) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Enumeration
