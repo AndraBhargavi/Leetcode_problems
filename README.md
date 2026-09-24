@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0844-backspace-string-compare) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
 |  |
