@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
