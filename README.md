@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0922-sort-array-by-parity-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1019-next-greater-node-in-linked-list](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1480-running-sum-of-1d-array](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2104-sum-of-subarray-ranges](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/2104-sum-of-subarray-ranges) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0907-sum-of-subarray-minimums) |
+| [1019-next-greater-node-in-linked-list](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [2104-sum-of-subarray-ranges](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0907-sum-of-subarray-minimums) |
+| [1019-next-greater-node-in-linked-list](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [2104-sum-of-subarray-ranges](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/2104-sum-of-subarray-ranges) |
 ## Prefix Sum
 |  |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Number Theory
