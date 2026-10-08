@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2104-sum-of-subarray-ranges](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/2104-sum-of-subarray-ranges) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0374-guess-number-higher-or-lower) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2540-minimum-common-value](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/2540-minimum-common-value) |
 ## String
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0073-set-matrix-zeroes) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Counting
 |  |
 | ------- |
