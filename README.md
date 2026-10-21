@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0503-next-greater-element-ii) |
+| [0566-reshape-the-matrix](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0735-asteroid-collision) |
 | [0881-boats-to-save-people](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0881-boats-to-save-people) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0073-set-matrix-zeroes) |
+| [0566-reshape-the-matrix](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0566-reshape-the-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Counting
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0067-add-binary) |
+| [0566-reshape-the-matrix](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0844-backspace-string-compare) |
