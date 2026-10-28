@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0088-merge-sorted-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0860-lemonade-change) |
