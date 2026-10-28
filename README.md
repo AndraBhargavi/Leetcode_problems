@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0566-reshape-the-matrix](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0566-reshape-the-matrix) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0905-sort-array-by-parity) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0922-sort-array-by-parity-ii) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
@@ -293,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
