@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0907-sum-of-subarray-minimums) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
