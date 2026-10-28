@@ -1,7 +1,7 @@
 class Solution:
     def findContentChildren(self, g: list[int], s: list[int]) -> int:
-        g.sort(reverse=True)
-        s.sort(reverse=True)
+        g.sort()
+        s.sort()
         m=len(g)
         n=len(s)
         count=0
@@ -13,7 +13,7 @@ class Solution:
                 i+=1
                 j+=1
             else:
-                i+=1
+                j+=1
         return count
 
 
