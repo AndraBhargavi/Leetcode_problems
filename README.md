@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0027-remove-element) |
+| [0086-partition-list](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0086-partition-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
