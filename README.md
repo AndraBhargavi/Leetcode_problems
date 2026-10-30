@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0086-partition-list](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0086-partition-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1669-merge-in-between-linked-lists](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1669-merge-in-between-linked-lists) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
