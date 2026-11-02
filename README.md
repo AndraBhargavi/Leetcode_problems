@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0496-next-greater-element-i) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0067-add-binary) |
 | [0367-valid-perfect-square](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
