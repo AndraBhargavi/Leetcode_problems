@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0566-reshape-the-matrix](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0566-reshape-the-matrix) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0881-boats-to-save-people](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0922-sort-array-by-parity-ii) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0067-add-binary) |
 | [0367-valid-perfect-square](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0441-arranging-coins) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
