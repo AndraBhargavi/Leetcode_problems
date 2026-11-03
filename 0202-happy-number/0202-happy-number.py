@@ -1,10 +1,6 @@
 class Solution:
     def isHappy(self, n: int) -> bool:
-        if self.fun(n,[])==1:
-            
-            return True
-        else:
-            return False
+        return self.fun(n,[])
     def fun(self,n,seen):
         ans=0
         while n>0:
@@ -12,10 +8,10 @@ class Solution:
             n=n//10
         if ans in seen:
             
-            return ans
+            return False
         seen.append(ans)
         if ans==1:
-            return ans
+            return True
         else:
             return self.fun(ans,seen)
         
