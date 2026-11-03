@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0048-rotate-image) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0027-remove-element) |
 | [0086-partition-list](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0088-merge-sorted-array) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0217-contains-duplicate) |
