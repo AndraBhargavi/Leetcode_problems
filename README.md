@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0229-majority-element-ii) |
@@ -327,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0455-assign-cookies) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
