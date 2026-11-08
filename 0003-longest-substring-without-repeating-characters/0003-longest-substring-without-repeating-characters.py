@@ -3,16 +3,19 @@ class Solution:
         n=len(s)
         if n<=1:
             return n
+        map1={}
         left=0
-        right=1
+        right=0
         maxi=0
         while(right<n):
-            if s[right] in s[left:right]:
-                maxi=max(maxi,right-left)
-                left+=1
-            else:
-                right+=1
-        maxi=max(maxi,right-left)
+           
+            if map1.get(s[right],-1)>=left:
+                left=map1[s[right]]+1
+            map1[s[right]]=right
+            maxi=max(maxi,right-left+1)
+            right+=1
+        
         return maxi
+
 
         
