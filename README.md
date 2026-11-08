@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1732-find-the-highest-altitude) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1732-find-the-highest-altitude) |
