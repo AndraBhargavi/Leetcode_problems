@@ -8,12 +8,13 @@ class Solution:
         left=k-1
         n=len(cardPoints)
         right=n-1
-        maxi=left_sum
-        while(left>=0):
+        maxi=0
+        while(left>=-1):
+            maxi=max(maxi,left_sum+right_sum)
             left_sum-=cardPoints[left]
             left-=1
             right_sum+=cardPoints[right]
             right-=1
-            maxi=max(maxi,left_sum+right_sum)
+            
         return maxi
         
