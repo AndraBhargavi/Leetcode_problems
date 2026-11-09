@@ -7,7 +7,7 @@ class Solution:
         n=len(fruits)
         while(right<n):
             hashi[fruits[right]]=hashi.get(fruits[right],0)+1
-            while len(hashi)>2:
+            if len(hashi)>2:
                 
                 hashi[fruits[left]]=hashi[fruits[left]]-1
                 if hashi[fruits[left]]==0:
@@ -15,5 +15,5 @@ class Solution:
                 left+=1
             if len(hashi)<=2:
                 maxi=max(maxi,right-left+1)
-                right+=1
+            right+=1
         return maxi
