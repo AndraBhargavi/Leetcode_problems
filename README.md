@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0844-backspace-string-compare) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2540-minimum-common-value](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/2540-minimum-common-value) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AndraBhargavi/Leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Stack
 |  |
